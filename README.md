@@ -60,7 +60,7 @@
 
 ### 🐍 Snake Animation
 <div align="center">
-  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/VishnuDath710/VishnuDath710/blob/output/github-contribution-grid-snake2.svg)
   <!-- <img src="https://raw.githubusercontent.com/VishnuDath710/VishnuDath710/output/snake.svg" alt="Snake animation" /> -->
 </div>
 
