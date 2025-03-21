@@ -3,67 +3,58 @@
 ---
 
 ### 💡 About Me
-- 🌱 I’m currently learning advanced machine learning techniques.
-- 💼 Building innovative projects using Python, Flask, and AI.
-- 💻 Passionate about full-stack development and open-source contributions.
-- 🚀 Always curious to explore new technologies.
+- 🔥 Full-Stack Developer specializing in **React, Node.js, and Flask**.
+- 🌱 Currently diving deep into **advanced machine learning** and AI.
+- 💼 Passionate about **building scalable applications** and contributing to open-source.
+- 🚀 Always eager to explore and integrate **cutting-edge technologies**.
 
 ---
 
 ### 🏆 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishnuDath710&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=VishnuDath710&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuDath710&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishnuDath710&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=VishnuDath710&theme=dracula" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuDath710&layout=compact&langs_count=8&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
 ---
 
 ### 💻 Tech Stack
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="AWS"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"  />
 </div>
 
 ---
 
 ### 🌱 Interests
-- 🤖 Artificial Intelligence & Machine Learning
-- 🖥️ Full-Stack Web Development
-- 📱 Mobile App Development (Flutter & Kotlin)
-- 🧩 Data Science and Analytics
-- 🌍 Cloud Computing with AWS
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🖥️ **Full-Stack Web Development (React, Node.js, Flask)**
+- 📱 **Mobile App Development (Flutter, React Native, Kotlin)**
+- ☁ **Cloud Computing & DevOps (AWS, Docker, Kubernetes)**
+- 📊 **Data Science & Analytics**
 
 ---
 
 ### 🌐 Connect with Me
 <div align="center">
-  <a href="https://discord.com"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <a href="mailto:vishnudathu9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/vishnu-dath-uppalapati-83a3532ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /></a>
 </div>
 
 ---
 
-### 🐍 Snake Animation
-<div align="center">
-  ![snake animation](https://github.com/VishnuDath710/VishnuDath710/blob/output/github-contribution-grid-snake2.svg)
-  <!-- <img src="https://raw.githubusercontent.com/VishnuDath710/VishnuDath710/output/snake.svg" alt="Snake animation" /> -->
-</div>
-
----
-
-⭐️ Feel free to explore my repositories and star the projects you like!
+⭐️ Feel free to explore my repositories and star the projects you like! 🚀
