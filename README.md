@@ -15,6 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VishnuDath710&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=VishnuDath710&theme=dracula" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuDath710&layout=compact&langs_count=8&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuDath710&theme=dracula" height="150" alt="GitHub Streak Tracker" />
 </div>
 
 ---
